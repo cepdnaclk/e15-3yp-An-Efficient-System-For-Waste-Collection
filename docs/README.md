@@ -1,73 +1,51 @@
 ---
 layout: home
 permalink: index.html
-
-# Please update this with your repository name and title
-repository-name: eYY-3yp-project-template
-title:
+repository-name: e15-3yp-An-Efficient-System-For-Waste-Collection
+title: An Efficient System For Waste Collection
 ---
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
-# Project Title
+# An Efficient System For Waste Collection
 
 ---
+I.U. Sudasinghe	E/15/347
+K.A.R.L. Alwis	E/15/010
+U.L.R.R. Perera	E/15/265
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/15/347, I.U. Sudasinghe, [e15347@eng.pdn.ac.lk](mailto:e15347@eng.pdn.ac.lk)
+-  E/15/010, K.A.R.L. Alwis, [e15010@eng.pdn.ac.lk](mailto:e15010@eng.pdn.ac.lk)
+-  E/15/265, U.L.R.R. Perera, [e15265@eng.pdn.ac.lk](mailto:e15265@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
-3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+3. [Links](#links)
 
 ---
 
 ## Introduction
 
-Description of the real world problem and solution, impact
+This Project aims to implement an Efficient Waste  Collection System in urban areas. Its is a very well known fact to the public that the waste collection in our country is done in a very primitive manner. Since the waste collecting vehicles has no awareness regarding the content level of the garbage cans, everyday they follow the same routine even though sometimes they arrives at garbage cans which are basically empty. This waste a considerable amount of time, money and fuel regardless to the traffic created by those vehicles. Since the use of garbage cans separately for basic types of waste (food, paper, plastic & polythene) has already began in our country, the process of collection of waste could be make very effective if there's a method to notify the shortest route that covers all the completely filled garbage cans to the driver of the waste collection vehicle. Our goal will be to implement the above solution using Embedded Systems, the knowledge of Networking and web application design.
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
-
+![image](https://user-images.githubusercontent.com/73756777/119198771-86df0680-baa7-11eb-9d4e-ed3ae7d4ccfb.png)
+![image](https://user-images.githubusercontent.com/73756777/119198799-94948c00-baa7-11eb-8f37-ea4779499f67.png)
 
 ## Solution Architecture
 
-High level diagram + description
+### Client Side
+![image](https://user-images.githubusercontent.com/73756777/119198922-c9084800-baa7-11eb-943c-fa8943c466a7.png)
 
-## Hardware and Software Designs
+### Server Side
+![image](https://user-images.githubusercontent.com/73756777/119198934-cdccfc00-baa7-11eb-9fc1-5c28118fef2f.png)
 
-Detailed designs with many sub-sections
-
-## Testing
-
-Testing done on hardware and software, detailed + summarized results
-
-## Detailed budget
-
-All items and costs
-
-| Item          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
-
-## Conclusion
-
-What was achieved, future developments, commercialization plans
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+- <a href = "https://github.com/cepdnaclk/e15-3yp-An-Efficient-System-For-Waste-Collection" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-An-Efficient-System-For-Waste-Collection/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
