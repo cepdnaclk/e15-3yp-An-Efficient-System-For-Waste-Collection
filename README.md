@@ -1,57 +1,52 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
+repository-name: e15-3yp-An-Efficient-System-For-Waste-Collection
+title: An Efficient System For Waste Collection
+---
 
-# eYY-3yp-project-template
+# An Efficient System For Waste Collection
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+---
+I.U. Sudasinghe	E/15/347
+K.A.R.L. Alwis	E/15/010
+U.L.R.R. Perera	E/15/265
 
-### Enable GitHub Pages
+## Team
+-  E/15/347, I.U. Sudasinghe, [e15347@eng.pdn.ac.lk](mailto:e15347@eng.pdn.ac.lk)
+-  E/15/010, K.A.R.L. Alwis, [e15010@eng.pdn.ac.lk](mailto:e15010@eng.pdn.ac.lk)
+-  E/15/265, U.L.R.R. Perera, [e15265@eng.pdn.ac.lk](mailto:e15265@eng.pdn.ac.lk)
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture )
+3. [Links](#links)
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+---
 
-### Special Configurations
+## Introduction
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+This Project aims to implement an Efficient Waste  Collection System in urban areas. Its is a very well known fact to the public that the waste collection in our country is done in a very primitive manner. Since the waste collecting vehicles has no awareness regarding the content level of the garbage cans, everyday they follow the same routine even though sometimes they arrives at garbage cans which are basically empty. This waste a considerable amount of time, money and fuel regardless to the traffic created by those vehicles. Since the use of garbage cans separately for basic types of waste (food, paper, plastic & polythene) has already began in our country, the process of collection of waste could be make very effective if there's a method to notify the shortest route that covers all the completely filled garbage cans to the driver of the waste collection vehicle. Our goal will be to implement the above solution using Embedded Systems, the knowledge of Networking and web application design.
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+![image](https://user-images.githubusercontent.com/73756777/119198771-86df0680-baa7-11eb-9d4e-ed3ae7d4ccfb.png)
+![image](https://user-images.githubusercontent.com/73756777/119198799-94948c00-baa7-11eb-8f37-ea4779499f67.png)
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
+## Solution Architecture
 
-### Page Theme
+### Client Side
+![image](https://user-images.githubusercontent.com/73756777/119198922-c9084800-baa7-11eb-943c-fa8943c466a7.png)
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+### Server Side
+![image](https://user-images.githubusercontent.com/73756777/119198934-cdccfc00-baa7-11eb-9fc1-5c28118fef2f.png)
+
+
+## Links
+
+- <a href = "https://github.com/cepdnaclk/e15-3yp-An-Efficient-System-For-Waste-Collection" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-An-Efficient-System-For-Waste-Collection/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
