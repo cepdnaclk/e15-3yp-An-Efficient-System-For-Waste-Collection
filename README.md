@@ -13,9 +13,9 @@ K.A.R.L. Alwis	E/15/010
 U.L.R.R. Perera	E/15/265
 
 ## Team
--  E/15/347, I.U. Sudasinghe, [e15347@eng.pdn.ac.lk](mailto:e15347@eng.pdn.ac.lk)
--  E/15/010, K.A.R.L. Alwis, [e15010@eng.pdn.ac.lk](mailto:e15010@eng.pdn.ac.lk)
--  E/15/265, U.L.R.R. Perera, [e15265@eng.pdn.ac.lk](mailto:e15265@eng.pdn.ac.lk)
+-  E/15/347, I.U. Sudasinghe, [isuru.sudasinghe@eng.pdn.ac.lk](mailto:isuru.sudasinghe@eng.pdn.ac.lk)
+-  E/15/010, K.A.R.L. Alwis, [alwisruchika@gmail.com](mailto:alwisruchika@gmail.com)
+-  E/15/265, U.L.R.R. Perera, [risithperera@eng.pdn.ac.lk](mailto:risithperera@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
